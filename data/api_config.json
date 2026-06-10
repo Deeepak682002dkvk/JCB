@@ -1,0 +1,7 @@
+{
+  "apiUrl": "https://id-game-checker.p.rapidapi.com/ff-global/{id}",
+  "apiKey": "3f96f92be1msh80ad5b002dce251p1b6f0fjsn160bee122912",
+  "uidParamName": "id",
+  "apiKeyHeaderName": "x-rapidapi-key",
+  "apiKeyParamName": ""
+}

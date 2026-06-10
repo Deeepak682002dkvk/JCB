@@ -1,0 +1,209 @@
+[
+  {
+    "id": "ff_1200",
+    "name": "Ranger Box",
+    "diamonds": 8400,
+    "bonusDiamonds": 840,
+    "price": 1200,
+    "image": "diamond_pot",
+    "tag": "New"
+  },
+  {
+    "id": "ff_1500",
+    "name": "Squad Loader Pro",
+    "diamonds": 10500,
+    "bonusDiamonds": 1050,
+    "price": 1500,
+    "image": "diamond_pot",
+    "tag": "Popular"
+  },
+  {
+    "id": "ff_1600",
+    "name": "Pro Hoard",
+    "diamonds": 11200,
+    "bonusDiamonds": 1200,
+    "price": 1600,
+    "image": "diamond_pot",
+    "tag": "Super Value"
+  },
+  {
+    "id": "ff_2000",
+    "name": "Booyah Special",
+    "diamonds": 14000,
+    "bonusDiamonds": 1500,
+    "price": 2000,
+    "image": "diamond_pot",
+    "tag": "Recommended"
+  },
+  {
+    "id": "ff_2500",
+    "name": "Gamer Vault Lite",
+    "diamonds": 17500,
+    "bonusDiamonds": 2000,
+    "price": 2500,
+    "image": "diamond_chest",
+    "tag": "Best Seller"
+  },
+  {
+    "id": "ff_3000",
+    "name": "Gladiator Chest",
+    "diamonds": 21000,
+    "bonusDiamonds": 2500,
+    "price": 3000,
+    "image": "diamond_chest",
+    "tag": "+12% Bonus"
+  },
+  {
+    "id": "ff_3500",
+    "name": "Evo Weapon Stash",
+    "diamonds": 24500,
+    "bonusDiamonds": 3000,
+    "price": 3500,
+    "image": "diamond_chest",
+    "tag": "+12% Bonus"
+  },
+  {
+    "id": "ff_4000",
+    "name": "Grandmaster Cache",
+    "diamonds": 28000,
+    "bonusDiamonds": 3500,
+    "price": 4000,
+    "image": "diamond_chest",
+    "tag": "+12% Bonus"
+  },
+  {
+    "id": "ff_5000",
+    "name": "Warlord Treasure",
+    "diamonds": 35000,
+    "bonusDiamonds": 4500,
+    "price": 5000,
+    "image": "diamond_chest",
+    "tag": "+13% Bonus"
+  },
+  {
+    "id": "ff_6000",
+    "name": "Elite Legend Horde",
+    "diamonds": 42000,
+    "bonusDiamonds": 5500,
+    "price": 6000,
+    "image": "diamond_throne",
+    "tag": "Vip Level A"
+  },
+  {
+    "id": "ff_7000",
+    "name": "Apex Predator Crate",
+    "diamonds": 49000,
+    "bonusDiamonds": 6500,
+    "price": 7000,
+    "image": "diamond_throne",
+    "tag": "Vip Level B"
+  },
+  {
+    "id": "ff_8000",
+    "name": "Overlord Vault",
+    "diamonds": 56000,
+    "bonusDiamonds": 8000,
+    "price": 8000,
+    "image": "diamond_throne",
+    "tag": "Vip Level 1"
+  },
+  {
+    "id": "ff_10000",
+    "name": "Alpha Titan Trove",
+    "diamonds": 70000,
+    "bonusDiamonds": 10000,
+    "price": 10000,
+    "image": "diamond_throne",
+    "tag": "Vip Level 2"
+  },
+  {
+    "id": "ff_12000",
+    "name": "Omega Overlord Stash",
+    "diamonds": 84000,
+    "bonusDiamonds": 12000,
+    "price": 12000,
+    "image": "diamond_throne",
+    "tag": "Elite Member"
+  },
+  {
+    "id": "ff_15000",
+    "name": "Sovereign Cache",
+    "diamonds": 105000,
+    "bonusDiamonds": 16000,
+    "price": 15000,
+    "image": "diamond_throne",
+    "tag": "+15% Bonus"
+  },
+  {
+    "id": "ff_16000",
+    "name": "Apex Clan Stash",
+    "diamonds": 112000,
+    "bonusDiamonds": 18000,
+    "price": 16000,
+    "image": "diamond_throne",
+    "tag": "Vip Level Max"
+  },
+  {
+    "id": "ff_20000",
+    "name": "Championship Vault",
+    "diamonds": 140000,
+    "bonusDiamonds": 24000,
+    "price": 20000,
+    "image": "diamond_throne",
+    "tag": "Special Tier"
+  },
+  {
+    "id": "ff_25000",
+    "name": "Vanguard Emperor Box",
+    "diamonds": 175000,
+    "bonusDiamonds": 31000,
+    "price": 25000,
+    "image": "diamond_throne",
+    "tag": "Imperial Tier"
+  },
+  {
+    "id": "ff_30000",
+    "name": "Sultan Ultimate Hoard",
+    "diamonds": 210000,
+    "bonusDiamonds": 38000,
+    "price": 30000,
+    "image": "diamond_throne",
+    "tag": "Sultan Tier"
+  },
+  {
+    "id": "ff_32000",
+    "name": "Titan Emperor Treasury",
+    "diamonds": 224000,
+    "bonusDiamonds": 42000,
+    "price": 32000,
+    "image": "diamond_throne",
+    "tag": "Imperial Gold"
+  },
+  {
+    "id": "ff_40000",
+    "name": "Immortal Dynasty Trove",
+    "diamonds": 280000,
+    "bonusDiamonds": 56000,
+    "price": 40000,
+    "image": "diamond_throne",
+    "tag": "Immortal Silver"
+  },
+  {
+    "id": "ff_45000",
+    "name": "Zenith Overlord Cache",
+    "diamonds": 315000,
+    "bonusDiamonds": 65000,
+    "price": 45000,
+    "image": "diamond_throne",
+    "tag": "Zenith Master"
+  },
+  {
+    "id": "ff_50000",
+    "name": "Immortal Supreme Cache",
+    "diamonds": 350000,
+    "bonusDiamonds": 75000,
+    "price": 50000,
+    "image": "diamond_throne",
+    "tag": "Immortal Status"
+  }
+]

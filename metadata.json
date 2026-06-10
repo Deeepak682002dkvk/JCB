@@ -1,0 +1,6 @@
+{
+  "name": "Free Fire Diamond Top-Up Store",
+  "description": "A modern and professional gaming top-up store inspired by Free Fire. Display premium diamond packages and weekly/monthly bundles with an administrative backoffice dashboard and checkout integrations using Razorpay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
